@@ -1,5 +1,5 @@
 console.log('Hello!');
 
-function anotherFunc() {
-    console.log('This job sucks');
+function newFunc() {
+    console.log('Doing my job');
 }
